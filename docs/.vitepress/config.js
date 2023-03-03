@@ -1,4 +1,5 @@
-module.exports = {
+export default {
+	lang: 'en-US',
 	title: 'Infosite',
 	description: 'A infosite for leaderboards.gg with the VitePress and Netlify CMS config.',
 	themeConfig: {

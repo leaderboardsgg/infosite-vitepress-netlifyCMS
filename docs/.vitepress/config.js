@@ -1,8 +1,8 @@
 module.exports = {
-	title: 'VitePress template',
-	description: 'A JAMstack website template with the VitePress and Netlify CMS config.',
+	title: 'Infosite',
+	description: 'A infosite for leaderboards.gg with the VitePress and Netlify CMS config.',
 	themeConfig: {
-		repo: 'tsutoringo/VitePress-with-Netlify-CMS',
+		repo: 'squiddot/infosite-vitepress-netlifycms',
 		docsDir: 'docs',
 		editLinks: true,
 		editLinkText: 'Edit this page on GitHub',

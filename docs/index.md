@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: VitePress + Netlify CMS
+heroText: Big Text change for testing
 tagline: Edited this line to test how things work.
 actionText: Get Started →
 actionLink: /guide/

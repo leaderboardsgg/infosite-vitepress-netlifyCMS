@@ -1,5 +1,5 @@
 {
-  "name": "vitepress-with-netlify-cms",
+  "name": "infosite-vitepress-netlifycms",
   "version": "0.1.0",
   "description": "A website starter template with the default vitepress theme and Netlify CMS config",
   "main": "index.js",
@@ -12,6 +12,6 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "author": "tsutoringo (https://github.com/tsutoringo)",
+  "author": "leaderboardsgg",
   "license": "MIT"
 }

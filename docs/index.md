@@ -1,17 +1,31 @@
 ---
-home: true
-heroText: Big Text change for testing
-tagline: Edited this line to test how things work.
-actionText: Get Started →
-actionLink: /guide/
+layout: home
+hero:
+  name: leaderboardsgg
+  text: Open Source. Community Built. Community Kept.
+  tagline: Under Development
+  image:
+    src: /logo.png
+    alt: VitePress
+  actions:
+    - theme: brand
+      text: Get Started
+      link: /guide/what-is-vitepress
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/vuejs/vitepress
+
 features:
-  - details: Use Netlify CMS to create and manage your content within your Git repo.
-    title: Git-powered content
-  - details: Create your own custom theme and use Vue components in your content.
-    title: Vue-powered development
-  - details: VitePress is VuePress' little brother, built on top of Vite. See more >
-      https://vitepress.vuejs.org/
-    title: Too fast
-footer: Template maintained by tsutoringo | MIT Licensed
+  - icon: 🛠️
+    title: Simple and minimal, always
+    details: Lorem ipsum...
+  - icon:
+      src: /cool-feature-icon.svg
+    title: Another cool feature
+    details: Lorem ipsum...
+  - icon:
+      dark: /dark-feature-icon.svg
+      light: /light-feature-icon.svg
+    title: Another cool feature
+    details: Lorem ipsum...
 ---
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/tsutoringo/VitePress-with-Netlify-CMS&amp;stack=cms" style="display:block; text-align:center"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>

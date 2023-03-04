@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: squiddot/infosite-vitepress-netlifycms
+  repo: leaderboardsgg/infosite-vitepress-netlifycms
 media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow

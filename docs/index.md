@@ -1,7 +1,7 @@
 ---
 layout: home
 hero:
-  name: leaderboardsgg
+  name: leaderboardsgg testing
   text: Open Source. Community Built. Community Kept.
   tagline: Under Development
   image:

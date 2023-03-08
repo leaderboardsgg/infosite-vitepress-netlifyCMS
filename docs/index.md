@@ -1,4 +1,5 @@
 ---
+title: home
 layout: home
 hero:
   name: Testing
@@ -14,7 +15,6 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
-
 features:
   - icon: 🛠️
     title: Simple and minimal, always

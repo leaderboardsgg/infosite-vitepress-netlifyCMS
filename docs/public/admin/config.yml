@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: leaderboardsgg/infosite-vitepress-netlifycms
   branch: main
 media_folder: "docs/public/media"
 public_folder: "/media"

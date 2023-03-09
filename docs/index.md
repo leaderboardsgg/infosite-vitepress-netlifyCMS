@@ -1,7 +1,8 @@
 ---
+title: home
 layout: home
 hero:
-  name: leaderboardsgg
+  name: Testing
   text: Open Source. Community Built. Community Kept.
   tagline: Under Development
   image:
@@ -14,7 +15,6 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
-
 features:
   - icon: 🛠️
     title: Simple and minimal, always

@@ -14,11 +14,10 @@ hero:
     - theme: alt
       text: View on GitHub
       link: https://github.com/vuejs/vitepress
-
+heroText: Hero Text
+actionText: Action Text
+actionLink: https://www.google.com
 features:
-  - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
   - icon:
       src: /cool-feature-icon.svg
     title: Another cool feature
@@ -28,4 +27,6 @@ features:
       light: /light-feature-icon.svg
     title: Another cool feature
     details: Lorem ipsum...
+  - title: COOL FEATURE
+    details: testing the cool feature
 ---
